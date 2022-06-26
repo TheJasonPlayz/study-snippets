@@ -1,0 +1,22 @@
+{
+  "name": "study-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJasonPlayz/study-snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheJasonPlayz/study-snippets/issues"
+  },
+  "homepage": "https://github.com/TheJasonPlayz/study-snippets#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
